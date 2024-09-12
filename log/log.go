@@ -78,7 +78,7 @@ const (
 	DEBUG
 )
 
-const TimeFormat = "2006-01-02 15:04:05"
+const TimeFormat = "2006-01-02 15:04:05.000000"
 
 // globalLogLevel indicates the global level filter for all logs (only entries with level equals or higher
 // than this value will be logged)
